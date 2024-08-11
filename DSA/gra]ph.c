@@ -1,0 +1,1 @@
+//Write a C program to store the details of a directed weighted graph (Use array of pointers concept).

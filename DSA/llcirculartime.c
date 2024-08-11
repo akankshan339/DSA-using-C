@@ -1,0 +1,1 @@
+//Using circular linkedlist allocate time slots of 10ms for given processes in time sharing Environment and then print which process will be completed in how much time.
